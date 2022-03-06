@@ -7,5 +7,3 @@
 
 
 * Strogonoff de Frango
-
-* 
